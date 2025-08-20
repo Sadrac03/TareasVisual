@@ -1,0 +1,33 @@
+C:\Users\arauz\source\repos\program. visual practica 2\bin\Debug\program.visual_practica_2.exe.config
+C:\Users\arauz\source\repos\program. visual practica 2\bin\Debug\program.visual_practica_2.exe
+C:\Users\arauz\source\repos\program. visual practica 2\bin\Debug\program.visual_practica_2.pdb
+C:\Users\arauz\source\repos\program. visual practica 2\obj\Debug\program. visual practica 2.csproj.AssemblyReference.cache
+C:\Users\arauz\source\repos\program. visual practica 2\obj\Debug\program.visual_practica_2.Form1.resources
+C:\Users\arauz\source\repos\program. visual practica 2\obj\Debug\program.visual_practica_2.Properties.Resources.resources
+C:\Users\arauz\source\repos\program. visual practica 2\obj\Debug\program. visual practica 2.csproj.GenerateResource.cache
+C:\Users\arauz\source\repos\program. visual practica 2\obj\Debug\program. visual practica 2.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\program. visual practica 2\obj\Debug\program.visual_practica_2.exe
+C:\Users\arauz\source\repos\program. visual practica 2\obj\Debug\program.visual_practica_2.pdb
+C:\Users\arauz\source\repos\program. visual practica 2\obj\Debug\program.visual_practica_2.exe.config
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\bin\Debug\program.visual_practica_2.exe.config
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\bin\Debug\program.visual_practica_2.exe
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\bin\Debug\program.visual_practica_2.pdb
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\obj\Debug\program. visual practica 2.csproj.AssemblyReference.cache
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\obj\Debug\program.visual_practica_2.exe.config
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\obj\Debug\program.visual_practica_2.Form1.resources
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\obj\Debug\program.visual_practica_2.Properties.Resources.resources
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\obj\Debug\program. visual practica 2.csproj.GenerateResource.cache
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\obj\Debug\program. visual practica 2.csproj.CoreCompileInputs.cache
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\obj\Debug\program.visual_practica_2.exe
+C:\Users\jaret\OneDrive\Desktop\program. visual practica 2\obj\Debug\program.visual_practica_2.pdb
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\obj\Debug\program. visual practica 2.csproj.AssemblyReference.cache
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\obj\Debug\program.visual_practica_2.exe.config
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\obj\Debug\program.visual_practica_2.Properties.Resources.resources
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\obj\Debug\program. visual practica 2.csproj.GenerateResource.cache
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\obj\Debug\program. visual practica 2.csproj.CoreCompileInputs.cache
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\obj\Debug\program.visual_practica_2.exe
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\obj\Debug\program.visual_practica_2.pdb
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\bin\Debug\program.visual_practica_2.exe.config
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\bin\Debug\program.visual_practica_2.exe
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\bin\Debug\program.visual_practica_2.pdb
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Practicas.programacionvisual\obj\Debug\program.visual_practica_2.Form1.resources
