@@ -1,0 +1,22 @@
+C:\Users\arauz\source\repos\calculadora basica\bin\Debug\calculadora basica.exe.config
+C:\Users\arauz\source\repos\calculadora basica\bin\Debug\calculadora basica.exe
+C:\Users\arauz\source\repos\calculadora basica\bin\Debug\calculadora basica.pdb
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.csproj.AssemblyReference.cache
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora_basica.Form1.resources
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora_basica.Properties.Resources.resources
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.csproj.GenerateResource.cache
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.exe
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.pdb
+C:\Users\arauz\source\repos\calculadora basica\obj\Debug\calculadora basica.exe.config
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\bin\Debug\calculadora basica.exe.config
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\bin\Debug\calculadora basica.exe
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\bin\Debug\calculadora basica.pdb
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\obj\Debug\calculadora basica.csproj.AssemblyReference.cache
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\obj\Debug\calculadora basica.exe.config
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\obj\Debug\calculadora_basica.Form1.resources
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\obj\Debug\calculadora_basica.Properties.Resources.resources
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\obj\Debug\calculadora basica.csproj.GenerateResource.cache
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\obj\Debug\calculadora basica.csproj.CoreCompileInputs.cache
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\obj\Debug\calculadora basica.exe
+C:\Users\jaret\OneDrive\Desktop\Programacion Visual\Calculadora\Calculadora\obj\Debug\calculadora basica.pdb
