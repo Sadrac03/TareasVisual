@@ -1,0 +1,64 @@
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\VisorImagenes.Form1.resources
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.csproj.GenerateResource.cache
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.AssemblyInfoInputs.cache
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.AssemblyInfo.cs
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.exe
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.deps.json
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.runtimeconfig.json
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.dll
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.pdb
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.dll
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\refint\Visor de Imagen.dll
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.pdb
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.genruntimeconfig.cache
+C:\Users\arauz\source\repos\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\ref\Visor de Imagen.dll
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.exe
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.deps.json
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.runtimeconfig.json
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.dll
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.pdb
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\VisorImagenes.Form1.resources
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.dll
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\refint\Visor de Imagen.dll
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.pdb
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.genruntimeconfig.cache
+C:\Users\USUARIO\Downloads\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\ref\Visor de Imagen.dll
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.exe
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.deps.json
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.runtimeconfig.json
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.dll
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.pdb
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\VisorImagenes.Form1.resources
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.csproj.GenerateResource.cache
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.AssemblyInfoInputs.cache
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.AssemblyInfo.cs
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.csproj.CoreCompileInputs.cache
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.dll
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\refint\Visor de Imagen.dll
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.pdb
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.genruntimeconfig.cache
+C:\Users\jaret\Desktop\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\ref\Visor de Imagen.dll
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.exe
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.deps.json
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.runtimeconfig.json
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.dll
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\bin\Debug\net8.0-windows\Visor de Imagen.pdb
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\VisorImagenes.Form1.resources
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.csproj.GenerateResource.cache
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.AssemblyInfoInputs.cache
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.AssemblyInfo.cs
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.csproj.CoreCompileInputs.cache
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.dll
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\refint\Visor de Imagen.dll
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.pdb
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\Visor de Imagen.genruntimeconfig.cache
+C:\Users\jaret\Desktop\Programacion Visual\Visor de Imagen\Visor de Imagen\Visor de Imagen\obj\Debug\net8.0-windows\ref\Visor de Imagen.dll
