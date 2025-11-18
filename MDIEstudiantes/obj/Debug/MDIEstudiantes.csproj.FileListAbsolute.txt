@@ -1,0 +1,28 @@
+C:\Users\arauz\source\repos\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe.config
+C:\Users\arauz\source\repos\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe
+C:\Users\arauz\source\repos\MDIEstudiantes\bin\Debug\MDIEstudiantes.pdb
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.Properties.Resources.resources
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.GenerateResource.cache
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.pdb
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe.config
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form1.resources
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form2.resources
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form3.resources
+C:\Users\arauz\source\repos\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form4.resources
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe.config
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\bin\Debug\MDIEstudiantes.exe
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\bin\Debug\MDIEstudiantes.pdb
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe.config
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form1.resources
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form2.resources
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form3.resources
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.Form4.resources
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.Properties.Resources.resources
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.GenerateResource.cache
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.exe
+C:\Users\jaret\Desktop\Programacion Visual\Practica 4\MDIEstudiantes\obj\Debug\MDIEstudiantes.pdb
