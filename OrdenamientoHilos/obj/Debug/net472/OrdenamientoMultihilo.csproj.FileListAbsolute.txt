@@ -1,0 +1,7 @@
+C:\Users\jaret\Desktop\Programacion Visual\OrdenamientoHilos\obj\Debug\net472\OrdenamientoMultihilo.csproj.AssemblyReference.cache
+C:\Users\jaret\Desktop\Programacion Visual\OrdenamientoHilos\obj\Debug\net472\OrdenamientoMultihilo.Form1.resources
+C:\Users\jaret\Desktop\Programacion Visual\OrdenamientoHilos\obj\Debug\net472\OrdenamientoMultihilo.csproj.GenerateResource.cache
+C:\Users\jaret\Desktop\Programacion Visual\OrdenamientoHilos\obj\Debug\net472\OrdenamientoMultihilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaret\Desktop\Programacion Visual\OrdenamientoHilos\obj\Debug\net472\OrdenamientoMultihilo.AssemblyInfoInputs.cache
+C:\Users\jaret\Desktop\Programacion Visual\OrdenamientoHilos\obj\Debug\net472\OrdenamientoMultihilo.AssemblyInfo.cs
+C:\Users\jaret\Desktop\Programacion Visual\OrdenamientoHilos\obj\Debug\net472\OrdenamientoMultihilo.csproj.CoreCompileInputs.cache
